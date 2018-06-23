@@ -1,3 +1,13 @@
+# Summary
+
+Fork from docker/dockerlite
+
+## ToDo
+
+- [ ] replace BTRFS to OverlayFS
+- [ ] rootdir configurable
+
+
 # Dockerlite: lightweight Linux virtualization with BTRFS and LXC
 
 Dockerlite lets you run Linux apps in lightweight, isolated environments,
